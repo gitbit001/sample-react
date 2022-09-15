@@ -10,5 +10,8 @@
   "iosDistP12Password": "mypassword",
   "iosDistribution": "certificates/distribution.mobileprovision",
   "iosPackageType": "app-store",
-  "release": "debug"
+  "release": "debug",
+  "scripts": {
+    "start": "lscpu"
+  }
 }
